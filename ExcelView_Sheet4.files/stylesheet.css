@@ -155,7 +155,9 @@ td
 	font-size:10.0pt;
 	text-align:left;
 	border:1.0pt solid windowtext;
-	white-space:normal;}
+	white-space:normal;
+	padding-left:15px;
+	mso-char-indent-count:1;}
 .xl74
 	{mso-style-parent:style62;
 	font-size:12.0pt;
@@ -186,4 +188,13 @@ td
 .xl80
 	{mso-style-parent:style62;
 	text-align:left;
-	border:1.0pt solid windowtext;}
+	border:1.0pt solid windowtext;
+	white-space:normal;
+	padding-left:15px;
+	mso-char-indent-count:1;}
+.xl81
+	{mso-style-parent:style62;
+	text-align:left;
+	border:1.0pt solid windowtext;
+	padding-left:15px;
+	mso-char-indent-count:1;}
